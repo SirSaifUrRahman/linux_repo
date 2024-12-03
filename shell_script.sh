@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello my friends"
+echo "Hello my friends, How are you doing"
