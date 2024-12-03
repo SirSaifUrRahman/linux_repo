@@ -1,2 +1,2 @@
-print("Python Version 2.7 by Saif")
+print("Python Version2 by Saif")
 print("Raza")
